@@ -1,8 +1,8 @@
-Phil 145: Critical Thinking
+#Phil 145: Critical Thinking
 
-Tremblay,Bruno
+##Tremblay,Bruno
 
-Reasoning 
+###Reasoning 
 making arguments
 
 You should vote for me, because I'll make america great again
@@ -19,3 +19,6 @@ Lying goes against the social nature of the human being, and for that reason it 
 Argument: Lying goes against the social nature of the human being
 
 What is a Proposition?
+
+
+Opinions \implies firm(er) knowledge
