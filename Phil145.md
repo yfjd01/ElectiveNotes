@@ -29,3 +29,22 @@ Opinions \implies firm(er) knowledge
 ####Practial Stuff
 
  SJ2 1002 MW 11:30-12:50
+  
+#Lec 2
+
+Difference between
+**Claims**: The Earth  is flat
+**Statements**: The Earth  is flat TODO: Mark the difference
+**Declarative Sentences**: I think the Earth is Flat
+
+**Premise**: Point of departure
+**Conclusion**: Point of arrival
+
+{X Should bbe disqualified as a candidate}, [because he refused to publish his tax returns]
+
+{} conclusion
+[] premise
+
+In this example the premise came after the conclusion
+
+**The Foundation**: Something known, the knowledge, the foundation of the logical order of dreason
