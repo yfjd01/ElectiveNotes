@@ -122,3 +122,30 @@ Prof Note Aside: X is A, There fore X is B
 We cant make this argument unless we know A implies B
 * Example X is breathing, therefore X is alive
 * Someone breathing is alive
+
+Chapter 3
+
+Use and mention
+ 
+Emontionally Charged Language
+
+Euphemisms
+
+Ambiguity
+Does 1, 2 imply 3
+1. Grandma is sick
+2. Fishing is not what it used to be, Therefore
+3. Hotdogs are bettwe with ketchup
+
+Well its because the two premieses having nothing to do with the conclusion.
+
+Example of correct reasoning
+1. Someone breathing is alive
+2. joe is breathing, Therefore
+3. joes is alive
+
+It looks like the 3 sentences has something to do with each other, reoccuring ideas (notions) such as Joe, and breathing and being alive
+
+Equivocity/Pdysemy
+
+Fallacy of equivocation 
