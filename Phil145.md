@@ -125,6 +125,41 @@ We cant make this argument unless we know A implies B
 
 Chapter 3
 
+Standardizing and Argument
+
+Premise 1
+Premise 2
+Premise N
+
+Therefore,
+Conclusion
+
+To standardize and argument is to set out its premise and conclusion in clear statements, with the premises preceding the conclusion. By numbering the presmies and the conclusions we can refer to specific statements in an efficient way.
+
+We can simply refer to (1) or premise (1) instead of copyiing out all the words
+
+Subarguments
+
+Arguments ofthen procedd in stages, a statemnet that serves as a premise in one argument becomes the conclusion in another sugarguments.
+
+Subarguments maybe given to defined premises
+
+A subargument is a subordinate argument that is component of a larger argument which can be called **whole argument**
+
+###Use and Mention
+
+When we mention in this example, we put quotation marks aroudn that work
+
+When we use we use it normally
+
+Maria called, "Out"
+Marian called out
+
+Emotionally Charged Language
+aka loaded language
+
+Through the use of emotionally charged language, a mood and attitude can be set without providing arguments, reasons or any considerations of alternate possibilities. Consider, for example, the difference between calling a change a "diversion of funds" and calling it a"reform"
+
 Use and mention
  
 Emontionally Charged Language
@@ -149,3 +184,4 @@ It looks like the 3 sentences has something to do with each other, reoccuring id
 Equivocity/Pdysemy
 
 Fallacy of equivocation 
+
