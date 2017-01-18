@@ -155,33 +155,68 @@ When we use we use it normally
 Maria called, "Out"
 Marian called out
 
-Emotionally Charged Language
+###Emotionally Charged Language
 aka loaded language
 
 Through the use of emotionally charged language, a mood and attitude can be set without providing arguments, reasons or any considerations of alternate possibilities. Consider, for example, the difference between calling a change a "diversion of funds" and calling it a"reform"
 
-Use and mention
- 
-Emontionally Charged Language
+###Euphenisms
+Is the opposite of emotionally charged language
 
-Euphemisms
+Euphenisms: on the other hand, involves a kind of whitewashing effect in which descriptions are less emotional than appropriate. 
+* If a video store advertises tapes as“ pre-enjoyed ” ; that is a euphemism for “ secondhand. ”
+* Bland, abstract, polite language is often used to refer to things that would be found embarrassing, demeaning, appalling, or horrible.
+* Euphemistic language functions to desensitize us, to dull our awareness of such things.
 
-Ambiguity
+##Ambiguity
 Does 1, 2 imply 3
 1. Grandma is sick
-2. Fishing is not what it used to be, Therefore
+2. Fishing is not what it used to be, 
+Therefore
 3. Hotdogs are bettwe with ketchup
 
 Well its because the two premieses having nothing to do with the conclusion.
 
 Example of correct reasoning
 1. Someone breathing is alive
-2. joe is breathing, Therefore
+2. joe is breathing, 
+Therefore
 3. joes is alive
 
 It looks like the 3 sentences has something to do with each other, reoccuring ideas (notions) such as Joe, and breathing and being alive
 
-Equivocity/Pdysemy
+There are two types of ambiguity
 
+Semantic ambiguity
+
+When we only read the headline, we do not have enough information to guide us to which meaning is intended, so the headline is ambiguous. This is an example of semantic ambiguity.
+
+Example
+* He could not spot the city on his map.
+ * Spot as in see or find
+* There was an ugly green spot on her shirt. 
+ *  it refers to a mark on the shirt, presumably one that is dirt or soil and should not be there.
+
+Syntatic ambiguity
+* Other ambiguities are due to the structure of phrases or sentences — to the way words are put together. These ambiguities are called syntactic.
+
+They arise because a phrase or sentence can quite naturally be interpreted as expressing two or more distinct gram  matical structures. 
+
+Example
+* A common cause of syntactic ambiguity is careless writing. An example of syntactic ambiguity is the previously mentioned headline “ Time for Football and Meatball Stew. ”
+ * Here, word order, meaning, and reasonable charity in interpretation all indicate that the word meatball in this headline should describe the stew. There isnt football in the stew
+ 
 Fallacy of equivocation 
+*  A fallacy is a mistaken argument or step in argument that is often not noticed and, as a result, appears with some frequency. 
+* The fallacy of equivocation is committed when a key word in an argument is used in two or more senses and the premises of the argument appear to support its conclusion only because these senses are not distinguished from each other. 
+* We may fail to notice the shift in meaning, and for that reason think that the argument is more cogent than it is
 
+1. Micah White is an atheist.
+2. All atheists lack beliefs.
+So,
+3. Micah White lacks beliefs.
+4. Anyone who lacks beliefs cannot be persecuted for his beliefs.
+Therefore,
+5. Micah White cannot be persecuted for his beliefs
+
+Equivocity/Pdysemy
