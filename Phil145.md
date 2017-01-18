@@ -152,8 +152,8 @@ When we mention in this example, we put quotation marks aroudn that work
 
 When we use we use it normally
 
-Maria called, "Out"
-Marian called out
+* Maria called, "Out"
+* Marian called out
 
 ###Emotionally Charged Language
 aka loaded language
@@ -218,5 +218,8 @@ So,
 4. Anyone who lacks beliefs cannot be persecuted for his beliefs.
 Therefore,
 5. Micah White cannot be persecuted for his beliefs
+
+**Vagueness**
+Vagueness, which is a lack of distinctness of meaning, is another example of lack of clarity. The problem of vagueness arises when a word, as used, has a meaning that is indeterminate, or fuzzy, and as such is not sufficiently clear to convey the necessary information in that context of use.
 
 Equivocity/Pdysemy
