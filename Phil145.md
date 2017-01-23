@@ -223,3 +223,33 @@ Therefore,
 Vagueness, which is a lack of distinctness of meaning, is another example of lack of clarity. The problem of vagueness arises when a word, as used, has a meaning that is indeterminate, or fuzzy, and as such is not sufficiently clear to convey the necessary information in that context of use.
 
 Equivocity/Pdysemy
+
+Types of Definition
+
+1. Essential definition
+2. Lexical definition
+* If you look up the word chair in a dictionary, you will find an account of the various meanings of that word as it is commonly used by speakers of English. These are thedenotations of the word.
+* A reportive definition has the goal of accurately describing how a word is used by explaining its meaning in a clear way, referring to important properties of the things it describes. Reportive definitions are also called lexical definitions.
+* These definitions are intended to capture the literal meaning or denotation of a word. They normally do not seek to explain figurative or metaphorical meanings.
+
+3. Stipulative definition
+* A stipulative definition is one in which someone specifies what the usage of a word is to be. 
+* In stipulating a definition, the person who puts it forward seeks to set out a specific usage for some purpose. He or she does not seek to describe ordinary usage, as in a reportive or lexical definition. Rather, the person sets out a meaning for a term.
+* An example of a stipulative definition is “ For the purposes of this award, the expression full-time student shall mean any student enrolled in eight or more semester-length courses in a given calendar year. ” 
+* We can easily imagine such a definition being stated in the context of a description of a scholarship. It stipulates, or sets out, how the expressionfull-time student is to be used in establishing eligibility for the award.
+
+4. Ostensive definition
+* In an ostensive definition of a word, X, we explain what X means by pointing to an example of X. Instead of using words to say what “mango” means, we might just point to a mango and say, “ That ’ s a mango, ” or, still better, have the person taste a piece of mango. 
+
+
+5. Operational definition
+* Operational definitions are a type of stipulative definition. They are most commonly used in the process of scientific study, when it is necessary to define an abstract word in terms of concrete experience. 
+* The purpose of an operational definition is to specify a set of operations, or procedures that will be used to determine whether the word applies. 
+* For example, an operational definition of soluble is: “ A substance is soluble if, and only if, it dissolves when placed in water.
+* you make a grilled cheese by...
+
+6. Persuasive definition
+* A persuasive definition is a stipulative definition disguised as a claim or as a reportive definition. 
+* In a persuasive definition there is an attempt to change attitudes by keeping the emotional connotations of a word while altering its application. 
+* Persuasive definitions attempt to alter our attitudes and beliefs by redefining terms instead of stating reasons and arguments.
+* Terms such as real, true, authentic, and genuine are often elements of persuasive definitions.
