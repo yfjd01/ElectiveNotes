@@ -227,10 +227,15 @@ Equivocity/Pdysemy
 Types of Definition
 
 1. Essential definition
+* The esssence of something
+* A list of all characteristics which are each necessary and collectively sufficient to identify all of the things to which the defined word apply, while not including any things which do not. Many people use the phrase "necessary and sufficient" as a benchmark for remembering what an essential definition is. 
+
+
 2. Lexical definition
 * If you look up the word chair in a dictionary, you will find an account of the various meanings of that word as it is commonly used by speakers of English. These are thedenotations of the word.
 * A reportive definition has the goal of accurately describing how a word is used by explaining its meaning in a clear way, referring to important properties of the things it describes. Reportive definitions are also called lexical definitions.
 * These definitions are intended to capture the literal meaning or denotation of a word. They normally do not seek to explain figurative or metaphorical meanings.
+* Layman definition not by experts
 
 3. Stipulative definition
 * A stipulative definition is one in which someone specifies what the usage of a word is to be. 
