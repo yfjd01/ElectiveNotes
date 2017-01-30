@@ -272,4 +272,9 @@ G
 Good grounds for the conclusion. In other words, considered together, the premise give sufficient reason to make it rational to accept the conclusion
 
 
-    
+A claim/ premise is acceptable because
+1. It is supported by an argument
+2. It is supported by an argument elsewhere
+3. It is known through itself 
+4. Common knowledge (not only true, but must be seen as true by others)
+5. Testimony 
