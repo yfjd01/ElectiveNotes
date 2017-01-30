@@ -271,3 +271,5 @@ THe premise are relevant to its conclusion. By this we mean that the premise sta
 G
 Good grounds for the conclusion. In other words, considered together, the premise give sufficient reason to make it rational to accept the conclusion
 
+
+    
