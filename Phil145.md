@@ -258,3 +258,16 @@ Persuasive definition
 * In a persuasive definition there is an attempt to change attitudes by keeping the emotional connotations of a word while altering its application. 
 * Persuasive definitions attempt to alter our attitudes and beliefs by redefining terms instead of stating reasons and arguments.
 * Terms such as real, true, authentic, and genuine are often elements of persuasive definitions.
+
+
+ARG Condition
+
+A
+It has acceptable premise. That is, it is reasonable for those to whorm the argument is addressed to believe these premies. There is good reason to accept the premise. Even if, in some cases, they are not known to be true. and there is no good evidence indicating the premise is false	
+
+R
+THe premise are relevant to its conclusion. By this we mean that the premise state evidence, offer reasons that support the conclusion, or can be arranged into a demonstration from which the concluson can be derived. The relevance of premise is necessary for the cogency of an argument
+
+G
+Good grounds for the conclusion. In other words, considered together, the premise give sufficient reason to make it rational to accept the conclusion
+
