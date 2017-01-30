@@ -277,4 +277,6 @@ A claim/ premise is acceptable because
 2. It is supported by an argument elsewhere
 3. It is known through itself 
 4. Common knowledge (not only true, but must be seen as true by others)
-5. Testimony 
+5. Testimony - Someone said itI saw my wife this morning, 
+6. Authority - An expert said it
+7. TOBE CONTINUED
