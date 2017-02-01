@@ -338,3 +338,15 @@ Faulty Appearls to authority
 
 Accepting Premises Provisionally
 * If the argument passes on R and G, then on the basis of provisional acceptance of premises. you can provisonally accept the conclusion 
+
+##Easy Refutability
+
+* The exception proves/confirms the rule
+* Claims know a priori to be false
+ * Claims can be refutability if the priori is a false with the use of a counter example
+* Inconsistnecy between the premises
+* Vagueness or ambiguity
+* Fallacy of begging question
+ *  Is a logical fallacy in which the writer or speaker assumes the statement under examination to be true. In other words, begging the question involves using a premise to support itself.
+ * Point of departure is same as part of arrival
+ * God exists because it says so in the biblex`
