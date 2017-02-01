@@ -279,7 +279,8 @@ Good Groups
  * 2. Helmut is a plumber
  * 3. Therefore, Helmut is corrupt.
 
-A claim/ premise is acceptable because
+##A claim/ premise is acceptable because
+
 1. It is supported by an argument
 2. It is supported by an argument elsewhere
 3. It is known through itself 
