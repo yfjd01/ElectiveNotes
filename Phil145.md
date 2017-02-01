@@ -260,16 +260,14 @@ Persuasive definition
 * Terms such as real, true, authentic, and genuine are often elements of persuasive definitions.
 
 
-ARG Condition
+##ARG Condition
 
-A
-It has acceptable premise. That is, it is reasonable for those to whorm the argument is addressed to believe these premies. There is good reason to accept the premise. Even if, in some cases, they are not known to be true. and there is no good evidence indicating the premise is false	
-
-R
-THe premise are relevant to its conclusion. By this we mean that the premise state evidence, offer reasons that support the conclusion, or can be arranged into a demonstration from which the concluson can be derived. The relevance of premise is necessary for the cogency of an argument
-
-G
-Good grounds for the conclusion. In other words, considered together, the premise give sufficient reason to make it rational to accept the conclusion
+* A
+ * It has acceptable premise. That is, it is reasonable for those to whorm the argument is addressed to believe these premies. There is good reason to accept the premise. Even if, in some cases, they are not known to be true. and there is no good evidence indicating the premise is false	
+* R
+ * THe premise are relevant to its conclusion. By this we mean that the premise state evidence, offer reasons that support the conclusion, or can be arranged into a demonstration from which the concluson can be derived. The relevance of premise is necessary for the cogency of an argument
+* G
+ * Good grounds for the conclusion. In other words, considered together, the premise give sufficient reason to make it rational to accept the conclusion
 
 
 A claim/ premise is acceptable because
@@ -280,3 +278,53 @@ A claim/ premise is acceptable because
 5. Testimony - Someone said itI saw my wife this morning, 
 6. Authority - An expert said it
 7. TOBE CONTINUED
+
+##When Premises are Acceptable
+
+Premises Supported by a Cogent Subargument
+* A premise in an argument is acceptable if the arguer has already shown it to be acceptable by a cogent subargument 
+
+Premise is Supported Else where
+* Premise is Supported by a cogent argument Else where
+
+Premises known a priori to be ture
+* Some claims must simply be acceptable in their own right if arguments are to get off the ground
+* A priori: from the first, something that is known to be true or false
+(The contrasting term a posteriori means “ from something that is posterior, or afterward ” and refers to claims that are knowable only after, or on the basis of, experience. 
+* Another word for a posteriori is empirical; an empirical claim is one that can be known only on the basis of evidence about the experienced world.)
+
+Common Knowledge
+*  That is to say, if the premise states something that is known by virtually everyone, it should be allowed as an acceptable premise.
+
+Testimony  
+* Under some conditions a claim is accceptable on th ebasis of a peron's testimoney
+* A  person testifies or tells about something he or she has experienced. Under certain conditions, we accept the claim about the expereine as decribed
+
+Unreliability of Person or Source
+
+* Caused by lying
+* Poor hearing conditions 
+
+Failure to Restirct Claim to Experience and Competence
+
+* Claim can't go beyond personal experence
+* Can't claim  lecture is dynamic by only going to one lecture
+
+Proper Authority
+* Arguemnts are put forward by people who possess specialized knowledge about the subject
+* Such a person wuold be an expert or authority in this area
+
+1. Expert X has asserted claim P.
+2. X is a reliable and credible person in this context.
+3. P falls within area of specialization K.
+4. K is a genuine area of knowledge.
+5. X is an expert, or authority, in K.
+6. The experts in K agree about P.
+Therefore,
+7. P is acceptable.
+
+Faulty Appearls to authority
+* If any of these conditions are not met, an appeal to authority does not provide relevant and sufficient grouns to support a claim. The R and G conditions will not be met and the argument will not be cogent
+
+Accepting Premises Provisionally
+* If the argument passes on R and G, then on the basis of provisional acceptance of premises. you can provisonally accept the conclusion 
