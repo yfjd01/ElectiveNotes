@@ -350,3 +350,48 @@ Accepting Premises Provisionally
  *  Is a logical fallacy in which the writer or speaker assumes the statement under examination to be true. In other words, begging the question involves using a premise to support itself.
  * Point of departure is same as part of arrival
  * God exists because it says so in the biblex`
+
+Easy refutability
+To refute a claim is to show that it is false. Some premises can easily be retured
+Usering a counterexample is enough to show that it is false
+Claims can be refuted when they are contradicted by experience, testimony, authority or common knowledge
+
+Claim Known a Priori to be false
+We have seen that some claims can be known a priori to be true>
+In an analogous way, some claims can be known a priori to be false
+Any such claim is unacceptable and cannot server as a premise in a cogent argument
+
+Inconsistency between Premises
+Sometimes an argument will contain a number of premises, seveal of which will explicitly or implicity contradict each other.
+It is more common for premises to contradict each other implicitly. 
+
+Vagueness or Ambiguity
+Vagueness or ambiguity can sometimes render premises unacceptable. 
+Terms like depression, widepread, and young are all vague in this context. Unless their meaning is clarified, the claim in which they are used will be unacceptable
+
+The Fallacy of Begging the Question
+An argument can go wrong because the preise is not more acceptable than the conclusion.
+Other names include circularity or circular reason
+Example: God exists because it says so in the bible
+Problem is point of depature is point of arrival
+
+Summary of Acceptability of Premises
+1. It is supported by a subargument that is cogent
+2. It is cogently supported elsewhere by tje arguer or another person, and this fact is noted 
+3. It is known a priori to be true.
+4. It is a matter of common knowledge.
+5. It is supported by appropriate testimony. (That is, the claim is not implausible, the
+sources are not unreliable, and the claim is restricted in content to the experience and
+competence of the person who asserts it.)
+6. It is supported by an appropriate appeal to authority.
+*7. It is not known to be unacceptable and can serve provisionally as the basis for
+argument.
+
+Summary of Unacceptability Conditions
+1. One or more premises are refutable on the basis of common knowledge, a priori knowledge, or reliable knowledge from testiomoney or authority
+2. One or more premises are a priori false
+3. Several premises taken together produce a contradiction, so that the premises are explicity or implicity inconsistent
+4. One or more premises are vauge or ambiguous to such an extent that it is not possible to determine what sort of evidence would establish them as acceptable or unacceptable.
+5. One or more premises would not be rationally acceptable to any person who did not already accept the conclusion. In this case the arguments begs the question or is circular
+
+
