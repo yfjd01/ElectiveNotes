@@ -31,3 +31,13 @@ Fallacies, Fallacy, Fallacious Argument: Is the use of invalid or otherwise faul
 1. argument that is fault and not cogent
 2. argument that is fault and not cogent and someone is decived
 
+Straw Man fallacy
+- A kind of irrelevence
+- If you criticize a weak position that an author did not really hold and infer from your criticism that his real position flawed, you have committed a straw man fallacy
+- The straw man fallacy is committed when a person misrepresents an argument, theory or claim, refutes that the misreprentation and then claims to have refued the position misrepresented
+
+Ad hominem fallacy
+- Another kind of irrelevence
+- A critic attacks is one in which a crtic attacks a person instead of arguing against the claims that person has put forwards
+- Although debating tatics are almost alway mistakes as far as logic is concered, they sometimes influence debate more then they should
+- Implicity we ar ereplying on ad hominem considerations when we reject a presentation because the person making it does not look presentable, middle class, or when we are skeptical of a view because those who hold it are young and do not hold responsible jobs
