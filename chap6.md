@@ -41,3 +41,21 @@ Ad hominem fallacy
 - A critic attacks is one in which a crtic attacks a person instead of arguing against the claims that person has put forwards
 - Although debating tatics are almost alway mistakes as far as logic is concered, they sometimes influence debate more then they should
 - Implicity we ar ereplying on ad hominem considerations when we reject a presentation because the person making it does not look presentable, middle class, or when we are skeptical of a view because those who hold it are young and do not hold responsible jobs
+
+Fallacy of guilt by association
+-  The fallacy of guilt by association is committed when a person or his or her views are criticized on the basis of a suposed link between that person and a group or movement believed to be disreputed. The poor reputation of any group is irrelevant to the substantive corrected of its own view or vies of people they are connected with.
+- Often irrelevent to the falsehold of the conclusion that a person is trying to make
+- Another example would be an aranchist who voted for a political candidate, doesn't prove that a policy is wrong
+- Opposite would be fallacy of virtue by association
+
+Fallacious Appeal to Popularity
+- Many arguments are based on popularity. Someone tries to show that a product is good because many people select it, or that a belief is correct because many people hold it
+- Such argument is flawed because the merits of something are one matter and its popularity another.
+- The appear to popularity is a fallacy that ocurs wehne people seeks to infer merit or truth from popularity. It is also know as the falalcy of jumping on a bandwagon or in latin ad populam.
+
+Fallacious Appeal to Ignorance
+- If we do not know something, it may be important to acknowledge our ignorance, but it is all too easy to lapse into fallacious arguments when we make inferences from that ignorance
+- The fallacy of appealing to ignorance occurs when people try to use lack of evidence knowldge or evidence as an agrument for a substantive claim. ad ignorantiam
+
+Fallacious Appeal to Emotions
+- Example people who come crying in about marks... but thats irrelevent 
