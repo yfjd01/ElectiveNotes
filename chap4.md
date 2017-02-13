@@ -18,3 +18,8 @@ Good Groups
  * 2. Helmut is a plumber
  * 3. Therefore, Helmut is corrupt.
 
+
+Acceptability of premises (A Condition)
+* A condition in which the premises of an argument are reaonable and believe
+
+ARG conditions Conditions of a cogent 
