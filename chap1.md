@@ -98,19 +98,19 @@ Example of a command:
 
 TODO: Chapter 1 Exercises
 
-Argument: A set of claims put forward as offering support for a further claim. An argument is composed of the supporting claims and the suppoerted claim. A person offers an argument when he or she tries to justify a claim by offering reasons for it.
+**Argument:** A set of claims put forward as offering support for a further claim. An argument is composed of the supporting claims and the suppoerted claim. A person offers an argument when he or she tries to justify a claim by offering reasons for it.
 
-Conclusion: In an argument, the claim for which premises are intended as support. It is this claim that the arguer tries to make credible.
+**Conclusion:** In an argument, the claim for which premises are intended as support. It is this claim that the arguer tries to make credible.
 
-Conditional statement: A conditional statement a connection is asserted between a condition and something said to be dependent on it. An example of a condtional statment is "If it snows, we will shovel the sidewalk" Note that this statement does not asser that it is snowning but only that if it snows, shoveling will be done. A conditional statemnet, by itseld does not constitue an argument, altough conditional statements are often used as argumentts 
+**Conditional statement:** A conditional statement a connection is asserted between a condition and something said to be dependent on it. An example of a condtional statment is "If it snows, we will shovel the sidewalk" Note that this statement does not assert that it is snowning but only that if it snows, shoveling will be done. A conditional statemnet, by itseld does not constitue an argument, altough conditional statements are often used as argumentts 
 
-Explanation: An account showing or attemping to show how it came to be that a fact or an event is the way it is.
+**Explanation:** An account showing or attemping to show how it came to be that a fact or an event is the way it is.
 Frequently explanations are given by specifiying the causes of an eveny. An explanation is one kind of nonargument
 
-Indicator words: "For, since, thus, therefore and because" used in arguments to indicate that a person is reasoning from premise to conclusion. However these words appear in not only arguments
+**Indicator words:** "For, since, thus, therefore and because" used in arguments to indicate that a person is reasoning from premise to conclusion. However these words appear in not only arguments
 
-Nonargumnet: A passage or speech that does not contain an argument
+**Nonargumnet:** A passage or speech that does not contain an argument
 
-Opinion: A belief typicall about a matter open to dispute, where there is not full proof and others have different ideas. Often people are aware that their opinions are not fully backed up by evidence and hold less firmly to them than to other belifers for which there is more conclsuive evidence.
+**Opinion:** A belief typically about a matter open to dispute, where there is not full proof and others have different ideas. Often people are aware that their opinions are not fully backed up by evidence and hold less firmly to them than to other belifers for which there is more conclsuive evidence.
 
-Premise: A supporting reason in an argument. It is put forward as being acceptable and provding rational support for futher claim.
+**Premise:** A supporting reason in an argument. It is put forward as being acceptable and provding rational support for futher claim.
