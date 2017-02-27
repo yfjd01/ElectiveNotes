@@ -82,6 +82,10 @@ Premises offer sufficient gorunds if assuming that they are accepted, they would
 Therefore,
 4. The instructor in the philosophy course was not competent in his knowledge of philosophy.
 
+A: Good
+R: Good
+G: Bad
+
 *6. The Success of Technology Case
 1. People thought an atomic bomb was impossible, and we made atomic bombs.
 2. People thought flying machines were impossible, and we made airplanes.

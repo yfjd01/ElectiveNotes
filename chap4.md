@@ -1,4 +1,4 @@
-
+	
 ##ARG Condition
 
 Acceptable Premise
@@ -24,7 +24,7 @@ Acceptability of premises (A Condition)
 
 ARG conditions Conditions of a cogent 
 
-====
+---
 
 **Acceptability of Premises (A condition)**: Condition in which the premises of an argument are reasonable to believe.
 

@@ -82,7 +82,7 @@ Example
  * Here, word order, meaning, and reasonable charity in interpretation all indicate that the word meatball in this headline should describe the stew. There isnt football in the stew
  
 Fallacy of equivocation 
-*  A fallacy is a mistaken argument or step in argument that is often not noticed and, as a result, appears with some frequency. 
+* A fallacy is a mistaken argument or step in argument that is often not noticed and, as a result, appears with some frequency. 
 * The fallacy of equivocation is committed when a key word in an argument is used in two or more senses and the premises of the argument appear to support its conclusion only because these senses are not distinguished from each other. 
 * We may fail to notice the shift in meaning, and for that reason think that the argument is more cogent than it is
 

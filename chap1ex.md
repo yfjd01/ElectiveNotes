@@ -1,3 +1,7 @@
+
+---
+
+---
 For each of the following passages, determine whether it does or does not contain an argument,
 and give reasons for your judgment. 
 
@@ -60,3 +64,14 @@ lians/Jesus, they run into the millions. ”
 
 *No argument: no reasoning to prove a view*
 **__ Not argument__**
+
+---
+
+---
+For each of the following passages, state whether it does or does not contain an argument.
+If you think that the passage does contain an argument, briefly state why and identify its
+conclusion. If you think that the passage is not an argument, briefly state why.
+
+*1. The cause of the confusion was an ambiguous exit sign.
+
+****
