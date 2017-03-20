@@ -246,3 +246,59 @@ Contradictory of this statement is Some S are not F, which is an O statement.
 A term is distributed, in a categorical statement, if that statement says something about everything that is in the category that the term refers to.
 
 Rulese of Categorial Syllogism
+
+#3/15/2017
+
+1.
+= Any law that **degrades personality** is unjust
+= All segregation **distorts the soul + damages the personality** 
+Therefore, all segregation statues is unjust
+
+2.
+All people who can... quilts is a princes..
+She is someone who can ... quilts
+Therefore, shes a princess
+
+3
+= (No person who believes that only matter exists is someone who..... soul)
+= All materialists are people that believe that only matter exists
+Therefore, no materialist sis someone who believse in the soul
+
+= All things that exists are made of batter
+= no soul is made out of matter
+Therefore, no soul is a thing that exists 
+
+Side note
+
+All arguments can have implicit parts
+(all syllogisms can have implict parts)
+
+
+4.
+= All things that thinks exists
+= I think
+Therefore, I exists
+
+5
+= All people who accept a pardon
+= Nixon accepted the pardon
+THerefore nixon is guilty 
+
+6
+= No crook buys peat moss
+= the lady buys peat moss 
+Therefore, the lady is not a crook 
+
+
+Enthymeme
+sorites 
+
+9
+All lions are big cats
+= All big cats are preadtors
+= All lions are big cats
+Therefore 	**=all lions are preadators**
+			=all preadtors are carnivoers
+			Therefore all lions are carnivoers
+
+Is actually 2 sloyogisms
