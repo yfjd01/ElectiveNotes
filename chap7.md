@@ -262,7 +262,7 @@ Therefore, shes a princess
 3
 = (No person who believes that only matter exists is someone who..... soul)
 = All materialists are people that believe that only matter exists
-Therefore, no materialist sis someone who believse in the soul
+Therefore, no materialist is someone who believse in the soul
 
 = All things that exists are made of batter
 = no soul is made out of matter
